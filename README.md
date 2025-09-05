@@ -73,11 +73,13 @@ Open your browser and navigate to:
 
 ## 📷 Screenshots
 
-### 🏠 **Home Screen**
+### **Home Screen**
 
-https://github.com/BouglaceMarouane/QuoteGenerator/blob/ad583670464c58b74b3d2085bc246a4f21f28151/Macbook-Air-.png
-
-*Clean, centered design with quote display and action buttons*
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/QuoteGenerator/blob/ad583670464c58b74b3d2085bc246a4f21f28151/Macbook-Air-.png" alt="Home Screen"/>
+  <br>
+  <em>🏠 Clean, centered design with quote display and action buttons.</em>
+</p>
 
 ## 🔧 **API Endpoints**
 

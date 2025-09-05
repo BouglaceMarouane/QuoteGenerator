@@ -107,6 +107,6 @@ If you like this project, don't forget to leave a ⭐ on GitHub. Thank you and h
 - 🌐 **GitHub**: [Bouglace Marouane](https://github.com/bouglacemarouane)
 - 🌍 **LinkedIn**: [Marouane Bouglace](https://linkedin.com/in/marouane-bouglace)
 
----
-
-*Made with ❤️ and lots of ☕*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>

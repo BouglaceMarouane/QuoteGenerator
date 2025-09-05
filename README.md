@@ -74,19 +74,10 @@ Open your browser and navigate to:
 ## 📷 Screenshots
 
 ### 🏠 **Home Screen**
+
+https://github.com/BouglaceMarouane/QuoteGenerator/blob/ad583670464c58b74b3d2085bc246a4f21f28151/Macbook-Air-.png
+
 *Clean, centered design with quote display and action buttons*
-
-### ✅ **Quote Display**
-*Beautiful typography showing inspirational quote with author attribution*
-
-### 📱 **Mobile Responsive**
-*Optimized layout for mobile devices with touch-friendly buttons*
-
-### 📋 **Copy Notification**
-*Success feedback when quote is copied to clipboard*
-
-### 📤 **Share Options**
-*Modal with multiple social media sharing options*
 
 ## 🔧 **API Endpoints**
 

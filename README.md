@@ -37,12 +37,16 @@ This project is a beautiful and interactive web application that generates inspi
 - Seamless user experience even during API restrictions
 
 ## 🛠️ Technologies Used
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Backend**: Node.js, Express.js
-- **APIs**: ZenQuotes API
-- **Styling**: Custom CSS with Google Fonts
-- **Icons**: Font Awesome 6.4.2
-- **Dependencies**: Express, CORS
+
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-Backend-lightgrey?logo=express&logoColor=black)  
+![ZenQuotes API](https://img.shields.io/badge/API-ZenQuotes-blueviolet?logo=swagger&logoColor=white)  
+![Google Fonts](https://img.shields.io/badge/Fonts-Google-red?logo=googlefonts&logoColor=white)  
+![Font Awesome](https://img.shields.io/badge/Icons-Font%20Awesome-528DD7?logo=fontawesome&logoColor=white)  
+![Dependencies](https://img.shields.io/badge/Dependencies-Express%20%7C%20CORS-lightblue)
 
 ## ⚙️ Installation Steps
 

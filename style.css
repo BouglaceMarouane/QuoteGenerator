@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    background-color: #f0f0f0;
+    font-family: 'Playfair Display', serif;
+}
+.quote-container{
+    background: white;
+    width: 90%;
+    max-width: 700px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 10px 20px 0px rgba(0,0,0,0.15);
+}
+@media (max-width: 900px) {
+    .quote-container {
+        padding: 25px;
+        max-width: 95vw;
+    }
+    .quote-container h2 {
+        font-size: 24px;
+    }
+    .quote-container blockquote {
+        font-size: 20px;
+        min-height: 80px;
+    }
+    .quote-container button {
+        width: 120px;
+        height: 40px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 600px) {
+    .quote-container {
+        padding: 10px;
+        max-width: 100vw;
+    }
+    .quote-container h2 {
+        font-size: 18px;
+    }
+    .quote-container blockquote {
+        font-size: 16px;
+        min-height: 60px;
+    }
+    .quote-container button {
+        width: 100px;
+        height: 35px;
+        font-size: 12px;
+        margin: 2px;
+    }
+}
+.quote-container h2{
+    margin-bottom: 40px;
+    font-size: 32px;
+    color: #333;
+    position: relative;
+}
+
+.quote-container h2::after{
+    content: '';
+    width: 75px;
+    height: 3px;
+    background-color: rgb(23, 124, 229);
+    border-radius: 3px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -10px;
+}
+
+.quote-container blockquote{
+    font-size: 26px;
+    min-height: 110px;
+}
+
+.quote-container blockquote::before {
+    content: '"';
+    margin-right: 4px;
+}
+.quote-container blockquote::after {
+    content: '"';
+    margin-left: 4px;
+}
+
+.quote-container span{
+    display: block;
+    margin-top: 10px;
+    float: right;
+    position: relative;
+}
+.quote-container span::before{
+    content: '';
+    width: 20px;
+    height: 2px;
+    background-color: rgb(23, 124, 229);
+    position: absolute;
+    top: 50%;
+    left: -30px;
+}
+
+.quote-container div{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.quote-container button{
+    background-color: rgb(23, 124, 229);
+    color: white;
+    border: 1px solid rgb(23, 124, 229);
+    width: 150px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 25px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.quote-container button i{
+    margin-right: 10px;
+}
+.quote-container button:nth-child(2){
+    background: transparent;
+    color: #333;
+}
+.quote-container button:nth-child(2):hover{
+    background-color: rgb(23, 124, 229);
+    color: white;
+}
+.quote-container button:hover{
+    background-color: #0056b3;
+}

@@ -1,7 +1,6 @@
 # 💬 Quote Generator 🌟
 
 
-
 ## ✨ Project Description
 This project is a beautiful and interactive web application that generates inspirational quotes from famous authors and personalities. It features a clean, modern design with responsive layout and provides users with the ability to get new quotes, copy them to clipboard, and share them on various social media platforms.
 

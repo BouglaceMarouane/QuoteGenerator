@@ -150,12 +150,6 @@ If you encounter issues or want to request a new feature, please open an issue i
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## ⭐ Support
 
 If you like this project, don't forget to leave a ⭐ on GitHub. Thank you and happy coding! 🚀

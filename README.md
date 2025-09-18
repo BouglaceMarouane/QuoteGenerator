@@ -119,7 +119,7 @@ SmileVision/
 
 ## 🎨 User Experience
 
-<div align="left">
+<div>
 
 ### 🖥️ **Desktop Experience**
 Clean, professional interface optimized for dental practice workflows with intuitive navigation and comprehensive dashboards.
@@ -165,12 +165,6 @@ We welcome contributions from the community! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 

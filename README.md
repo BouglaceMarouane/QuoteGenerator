@@ -119,7 +119,7 @@ SmileVision/
 
 ## 🎨 User Experience
 
-<div align="center">
+<div align="left">
 
 ### 🖥️ **Desktop Experience**
 Clean, professional interface optimized for dental practice workflows with intuitive navigation and comprehensive dashboards.

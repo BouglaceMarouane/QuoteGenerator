@@ -172,10 +172,6 @@ If you like this project, don't forget to leave a ⭐ on GitHub. Thank you and h
 
 <div align="center">
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/made-with-javascript.svg"/>
-<img src="https://forthebadge.com/images/badges/open-source.svg"/>
-
 **Thank you for visiting Quote Generator! 💬✨**
 
 </div>

@@ -195,10 +195,6 @@ We welcome contributions from the community! Here's how you can help:
 
 <br>
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/made-with-javascript.svg"/>
-<img src="https://forthebadge.com/images/badges/open-source.svg"/>
-
 **Thank you for visiting SmileVision! 🦷✨**
 
 </div>

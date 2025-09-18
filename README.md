@@ -6,10 +6,6 @@
   <h3>🦷 Modern Dental Care Management System</h3>
   <p><em>Making dental care more organized, efficient, and accessible</em></p>
   
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Responsive](https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge)
-  
   <br>
   
   [![GitHub stars](https://img.shields.io/github/stars/bouglacemarouane/SmileVision?style=social)](https://github.com/bouglacemarouane/SmileVision)
